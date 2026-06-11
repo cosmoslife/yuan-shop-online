@@ -1,0 +1,5 @@
+name: Pages
+on: push
+jobs: d:
+  runs-on: ubuntu-latest
+  steps: []
